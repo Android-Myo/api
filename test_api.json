@@ -1,0 +1,20 @@
+{
+"confirm": "89486",
+"newconfirm": "1509",
+"deaths": "1918",
+"newdeaths": "31",
+"recovered": "68910",
+"newrecovered": "1322",
+"totaltested": "1147841",
+"totalpui": "15581",
+"lastupdated": "29/11/2020 11:48:31 PM",
+"dt": "(၂၉-၁၁-၂၀၂၀)ရက်နေ့၊ ည(၈:၀၀)နာရီ",
+"notice": "below datas are not active anymore according to mohs dashboard",
+"lab_negative": 993,
+"lab_pending": 140,
+"discharge": 184,
+"quarantine": "",
+"total": 1172,
+"pui": 1271,
+"suspected": 2
+}
