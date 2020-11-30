@@ -10,14 +10,14 @@
 "img": "supernet.png"
 },
 {
-"name": "Huawei B316 Router 4G",
-"price": "90000",
-"img": "b316.png"
-},
-{
 "name": "Huawei B311 Router 4G",
 "price": "75000",
 "img": "b31.png"
+},
+  {
+"name": "Huawei B316 Router 4G",
+"price": "90000",
+"img": "b316.png"
 }
 
 ]
