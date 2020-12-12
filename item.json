@@ -18,6 +18,11 @@
 "name": "Huawei B316 Router 4G",
 "price": "90000",
 "img": "b316.png"
+},
+   {
+"name": "4G Wireless Router",
+"price": "65000",
+"img": "4ant.png"
 }
 
 ]
