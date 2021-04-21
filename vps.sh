@@ -18,8 +18,11 @@ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 sudo dpkg --install google-chrome-stable_current_amd64.deb
 sudo apt install --assume-yes --fix-broken
 sudo apt install nautilus nano -y 
+wget -nc https://dl.winehq.org/wine-builds/winehq.key
+sudo apt-key add winehq.key
 sudo add-apt-repository ppa:ubuntu-wine/ppa    
 sudo apt-get update && sudo apt-get install wine1.7 winetricks
+sudo apt-get install --install-recommends winehq-devel
 sudo adduser Mpnetization chrome-remote-desktop
 } &> /dev/null &&
 printf "\nSetup Complete " >&2 ||
