@@ -1,0 +1,12 @@
+[
+  {
+    "server": "SG",
+    "volume": "500GB",
+    "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWWkEydnVsazhVT04@68.183.176.63:31202/?outline=1"
+  },
+  {
+    "server": "TOKYO",
+    "volume": "800GB",
+    "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWWkEydnVsazhVT04@68.183.176.63:31202/?outline=1"
+  }
+]
