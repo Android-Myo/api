@@ -2,43 +2,43 @@
   {
     "server": "SG",
     "flag":"https://www.countryflags.io/sg/shiny/64.png",
-    "volume": "500GB",
+    "volume": "100GB",
     "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWWkEydnVsazhVT04@68.183.176.63:31202/?outline=1"
   },
    {
     "server": "SG",
     "flag":"https://www.countryflags.io/sg/shiny/64.png",
-    "volume": "500GB",
+    "volume": "100GB",
     "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiQzlZZVJ0eEF4d2w@128.199.183.244:22735/?outline=1"
   },
  {
     "server": "Au",
     "flag":"https://www.countryflags.io/Au/shiny/64.png",
-    "volume": "800GB",
+    "volume": "100GB",
     "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVHBUV0szWjZSaGY@13.238.250.233:61838/?outline=1"
   },
    {
     "server": "Au",
     "flag":"https://www.countryflags.io/Au/shiny/64.png",
-    "volume": "800GB",
+    "volume": "100GB",
     "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6NmkybFRxMlZvMzA@13.238.250.233:61838/?outline=1"
   },
    {
     "server": "Au",
     "flag":"https://www.countryflags.io/Au/shiny/64.png",
-    "volume": "800GB",
+    "volume": "100GB",
     "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMZVVHdDVINjFiYmw@13.238.250.233:61838/?outline=1"
   },
    {
     "server": "Au",
     "flag":"https://www.countryflags.io/Au/shiny/64.png",
-    "volume": "800GB",
+    "volume": "100GB",
     "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGZngwTmVCRElGU2I@13.238.250.233:61838/?outline=1"
   },
     {
     "server": "SG",
     "flag":"https://www.countryflags.io/sg/shiny/64.png",
-    "volume": "300GB",
+    "volume": "100GB",
     "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptaFU1dGtwbFljNTU@128.199.183.244:22735/?outline=1"
   }
 ]
