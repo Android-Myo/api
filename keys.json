@@ -1,16 +1,19 @@
 [
   {
     "server": "SG",
+    "flag":"https://www.countryflags.io/sg/shiny/64.png",
     "volume": "500GB",
     "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWWkEydnVsazhVT04@68.183.176.63:31202/?outline=1"
   },
   {
-    "server": "TOKYO",
+    "server": "Us",
+    "flag":"https://www.countryflags.io/us/shiny/64.png",
     "volume": "800GB",
     "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWWkEydnVsazhVT04@68.183.176.63:31202/?outline=1"
   },
     {
     "server": "SG",
+    "flag":"https://www.countryflags.io/sg/shiny/64.png",
     "volume": "300GB",
     "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWWkEydnVsazhVT04@68.183.176.63:31202/?outline=1"
   }
