@@ -29,6 +29,12 @@
     "volume": "100GB",
     "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprV1hIdlIzeU9SdEk@13.229.46.176:65506/?outline=1"
   },
+    {
+    "server": "Sg",
+    "flag":"https://www.countryflags.io/sg/shiny/64.png",
+    "volume": "100GB",
+    "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqd0RTcWpMTWxNYm8@13.212.54.224:32692/?outline=1"
+  },
    {
     "server": "Sg",
     "flag":"https://www.countryflags.io/sg/shiny/64.png",
@@ -39,7 +45,13 @@
     "server": "Sg",
     "flag":"https://www.countryflags.io/sg/shiny/64.png",
     "volume": "100GB",
-    "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqd0RTcWpMTWxNYm8@13.212.54.224:32692/?outline=1"
+    "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5VjV0Ym1RVU02Wjc@13.212.54.224:5280/?outline=1"
+  },
+   {
+    "server": "Sg",
+    "flag":"https://www.countryflags.io/sg/shiny/64.png",
+    "volume": "100GB",
+    "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLd3lINDE0ZFI1WTY@13.229.46.176:65506/?outline=1"
   },
    {
     "server": "Sg",
